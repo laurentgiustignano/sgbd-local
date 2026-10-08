@@ -1,6 +1,6 @@
 # sgbd-local
 
-Serveurs de bases de données locaux via Docker (MariaDB + PostgreSQL).
+Serveurs de bases de données locaux via Docker (MariaDB + PostgreSQL) pour le développement.
 
 ## Prérequis
 
